@@ -1,6 +1,7 @@
 # Pemrograman-Mobile
-* Nama : Lukas Valentino
-* NIM : 2141720032
-* Kelas : 3H
+# Semester 5
+* Nama : M Rohmatul Mauludi
+* NIM : 2141720062
+* Kelas : 3A
 * Prodi : D-IV Teknik Informatika
-Dosen Pengampu Bapak Habibie Ed Dien
+Dosen Pengampu, Ahmadi Yuli Ananta
